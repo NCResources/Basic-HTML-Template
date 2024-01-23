@@ -1,1 +1,1 @@
-Click "Code" > "Download zip"
+Click "Code" > "Download ZIP"
