@@ -1,1 +1,1 @@
-Click "Use this template" > "Download ZIP"
+Click "Use this template" > "Create new repository"
