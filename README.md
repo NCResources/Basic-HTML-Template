@@ -1,1 +1,1 @@
-Click "Code" > "Download ZIP"
+Click "Use this template" > "Download ZIP"
